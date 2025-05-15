@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nasim Karimian - Backend Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nasim Karimian</h1>
+        <p>Email: <a href="mailto:nkarimian3034@gmail.com">nkarimian3034@gmail.com</a> | Phone: +98 9152283034 | Location: Bojnourd, Iran</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/nasim-karimian-67b543260">linkedin.com/in/nasim-karimian-67b543260</a></p>
+    </header>
+    
+    <section id="summary">
+        <h2>Professional Summary</h2>
+        <p>Results-driven backend developer with 4 years of experience in development and backend systems. Skilled in backend development using C# and SQL Server, with hands-on involvement in data-driven healthcare applications. Proficient in end-to-end ML pipelines, backend integration, model deployment, and cloud-based solutions.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Core Skills</h2>
+        <ul>
+            <li><strong>Programming:</strong> Python, C#, Arduino</li>
+            <li><strong>Databases & Backend:</strong> SQL Server, REST APIs, Flask, FastAPI</li>
+            <li><strong>Model Deployment:</strong> TensorFlow Serving, TorchServe, Docker</li>
+            <li><strong>Data Engineering:</strong> Pandas, NumPy, OpenCV, tf.data API, PyTorch DataLoader</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Key Projects</h2>
+        <ul>
+            <li><strong>Medical Record Management System:</strong> Designed and developed backend services using C# and SQL Server for a medical record management system. Integrated RESTful APIs with authentication, authorization, and CRUD functionalities for patient data access.</li>
+            <li><strong>Health Data Dashboard:</strong> Created backend data pipelines to serve real-time analytics from wearable health monitoring devices. Used SQL Server for data storage and FastAPI for serving processed insights to a web-based dashboard.</li>
+            <li><strong>IoT-Integrated Glucose Monitoring Device:</strong> Developed algorithms for an IoT-integrated glucose monitoring device.</li>
+        </ul>
+    </section>
+
+    <section id="experience">
+        <h2>Professional Experience</h2>
+        <p><strong>Sedad Andishan | Bojnourd, Iran | 02/2020 - 07/2023</strong></p>
+        <ul>
+            <li>Developed backend systems using C# and SQL Server for healthcare applications.</li>
+            <li>Optimized TensorFlow models for deployment on edge devices using TensorFlow Lite and Arduino Nano.</li>
+            <li>Led data preprocessing efforts with tf.data and PyTorch DataLoader to handle large medical datasets.</li>
+        </ul>
+    </section>
+
+    <section id="education">
+        <h2>Education</h2>
+        <p><strong>Bachelor of Biomedical Engineering</strong></p>
+        <p>Azad Islamic University, Bojnourd, Iran | 10/2019 - 03/2022</p>
+    </section>
+
+    <section id="languages">
+        <h2>Languages</h2>
+        <ul>
+            <li>English (Professional)</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Nasim Karimian. All rights reserved.</p>
+    </footer>
+</body>
+</html>
